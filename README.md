@@ -1,7 +1,17 @@
+
 # Live-Coordinate-Gesture-Shooter (LCGS)
 ## Overview
 
 This project showcases a gesture-controlled bot that interprets hand gestures to execute directional movements and perform shooting actions. The bot uses a vision-based system to detect hand gestures and sends corresponding commands to an Arduino to control multiple servos for precise movements.
+
+Here are a few images of the bot:
+![](LCGS.jpg)
+![](LCGS2.jpg)
+
+
+## Demonstration Video
+https://github.com/user-attachments/assets/33ced09a-d48a-46dd-97fc-79f2347ae8e2
+
 
 ## Features
 - **Hand Gesture Detection:** The system uses OpenCV and MediaPipe to recognize hand gestures in real-time.
